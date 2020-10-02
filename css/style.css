@@ -133,6 +133,7 @@ header .highlight, header .current a{
 }
 
 #about .box3 {
+  text-align: left;
   float:left;
   width: 50%;
 
@@ -146,6 +147,7 @@ header .highlight, header .current a{
 
 
 #about .box5 {
+  text-align: left;
   float:left;
   width: 100%;
 
@@ -178,7 +180,7 @@ header .highlight, header .current a{
 }
 
 #contact h1{
-
+  text-align: left;
   margin-top: 70px;
   font-size: 40px;
 }
