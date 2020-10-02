@@ -14,7 +14,7 @@ body {
 .container{
   width:80%;
   margin:auto;
-  overflow-x:hidden;
+  overflow:hidden;
 }
 
 ul{
@@ -146,11 +146,7 @@ header .highlight, header .current a{
   text-align: center;
   width: 50%;
 }
-#about .container{
-  width:70%;
 
-
-}
 
 #about .box5 {
   float:left;
